@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Script\Main.cs">
+    <Files>
+      <File FileName="Assets\_Script\Main.cs" Line="40" Column="36" />
+      <File FileName="Assets\_Script\PlayerControl.cs" Line="21" Column="55" />
+      <File FileName="Assets\_Script\CreateFloors.cs" Line="38" Column="128" />
+      <File FileName="Assets\_Script\Save.cs" Line="14" Column="56" />
+      <File FileName="Assets\_Script\FloorDo.cs" Line="10" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

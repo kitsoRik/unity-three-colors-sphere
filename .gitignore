@@ -1,0 +1,13 @@
+Packages
+obj
+Library
+.vs
+
+*.png
+*.jpg
+*.mp4
+*.psd
+*.ai
+*.mat
+*.dll
+*.so
